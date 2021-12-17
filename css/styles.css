@@ -1,10 +1,133 @@
 body {
   font-family: Roboto, sans-serif;
 }
-
+:root {
+  --ba
+}
 .list {
   list-style: none;
 }
 .link {
   text-decoration: none;
+
+}
+.title {
+
+}
+.h2-title {
+
+}
+
+/* ---header----*/
+.header {
+
+}
+.header-logo {
+
+}
+.header-nav {
+
+}
+.header-list {
+
+}
+.header-item {
+
+}
+.header-link {
+
+}
+.header-mail {
+
+}
+.header-tel {
+
+}
+/*---make order-- */
+.make-order {
+
+}
+.make-order-title {
+
+}
+.make-order-buttun {
+
+}
+/* ---features--- */
+.features {
+
+}
+.features-list {
+
+}
+.features-item {
+
+}
+/* ---our work---- */
+.our-work {
+
+}
+.our-work-list {
+
+}
+.our-work-item {
+
+}
+/* --- our team--- */
+.our-team {
+
+}
+.our-team-list {
+
+}
+.our-team-item {
+
+}
+.our-team-name {
+
+}
+.our-team-post {
+
+}
+/* ---footer---- */
+.footer {
+
+}
+.footer-list {
+
+}
+.footer-item {
+
+}
+.footer-link {
+
+}
+/* ---hero---- */
+.hero {
+
+}
+.hero-list {
+
+}
+.hero-item {
+
+}
+.hero-link {
+
+}
+/* ---portfolio---- */
+.portfolio {
+
+}
+.portfolio-list {
+
+}
+.portfolio-item {
+
+}
+.h3-portfolio {
+
+}
+.p-portfolio {
+
 }
