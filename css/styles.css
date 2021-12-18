@@ -121,6 +121,7 @@ body {
 }
 .make-order-button {
   background: #2196f3;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
   font-family: inherit;
   font-weight: 700;
   font-size: 16px;
@@ -134,7 +135,8 @@ body {
 }
 .make-order-button:hover,
 .make-order-button:focus {
-   background: #2196f3;
+background: #188CE8;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
   font-family: inherit;
   font-weight: 700;
   font-size: 16px;
@@ -164,6 +166,7 @@ body {
 }
 /* --- our team--- */
 .our-team {
+  background: #F5F4FA;
 }
 .our-team-list {
 }
@@ -214,16 +217,20 @@ body {
 .address {
   font-style: normal;
 }
-/* ---hero---- */
-.hero {
+/* ----maim---- */
+.main {
+  background: #E5E5E5;
 }
-.hero-list {
+/* ---main---- */
+.main {
 }
-.hero-item {
+.main-list {
 }
-.hero-link {
+.main-item {
 }
-.hero-btn {
+.main-link {
+}
+.main-btn {
   background: #F5F4FA;
   font-family: Roboto;
   font-style: normal
@@ -234,8 +241,8 @@ body {
   letter-spacing: 0.03em;
   cursor: pointer;
 }
-.hero-btn:hover,
-.hero-btn:focus {
+.main-btn:hover,
+.main-btn:focus {
 background: #2196f3;
 font-family: Roboto;
 font-style: normal;
@@ -248,6 +255,9 @@ letter-spacing: 0.03em;
 
 color: #FFFFFF;
 
+}
+.current-button {
+  background: #2196f3;
 }
 /* ---portfolio---- */
 .portfolio {
